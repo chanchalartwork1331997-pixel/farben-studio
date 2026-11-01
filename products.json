@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "name": "Peony Flower scented candle",
+    "desc": "Soy Wax Scented Candle with 12 diffrent colours availble with diffrent fragrances which one  you want                                                                        size: L= 3inch, Width = 3inch",
+    "cost": 180,
+    "price": 399,
+    "wholesale": "1400/4",
+    "images": [
+      "images/product-image-1.jpg"
+    ],
+    "category": "Scented Candles"
+  },
+  {
+    "id": 2,
+    "name": "Peony Flower Gold Scented Candle",
+    "desc": "Soy Wax Scented Candle with 12 diffrent colours availble with diffrent fragrances & Gold Plating                                                                                   size: L= 3inch, Width = 3inch",
+    "cost": 200,
+    "price": 499,
+    "wholesale": "1500/4",
+    "images": [
+      "images/product-image-2.jpg"
+    ],
+    "category": "Scented Candles"
+  },
+  {
+    "id": 3,
+    "name": "Peony Flower Card Candle",
+    "desc": "Tiny Scented Soy Wax Candle with Digital Print Card                                                                                 Size : Length : 1cm, width : 1cm",
+    "cost": 60,
+    "price": 149,
+    "wholesale": "750/4",
+    "images": [
+      "images/product-image-3.jpg"
+    ],
+    "category": "Decorative Candles"
+  },
+  {
+    "id": 4,
+    "name": "Peony Flower Scented Candle Bouquet",
+    "desc": "Scented Soy Wax Candle with Bouquet Packaging                                                                       Size : Length : 3cm, width : 3cm",
+    "cost": 200,
+    "price": 399,
+    "wholesale": "1400/4",
+    "images": [
+      "images/product-image-4.jpg"
+    ],
+    "category": "Gift & Bouquets"
+  },
+  {
+    "id": 5,
+    "name": "Women Pray Figure Candle",
+    "desc": "Premium Soy Wax / Paraffin Wax blend Pearl White Finish Decorative & Handmade Candle Home décor, gifting, Christmas, religious occasions, housewarming, birthdays                                    Size : Height :7inches , Width : 3inches",
+    "cost": 250,
+    "price": 549,
+    "wholesale": "2100/4",
+    "images": [
+      "images/product-image-5.jpg"
+    ],
+    "category": "Decorative Candles"
+  },
+  {
+    "id": 6,
+    "name": "Pink Heart Wax Melt Topped Jar Candle",
+    "desc": "Cream candle base topped with assorted pink heart and cube-shaped wax melts Soy/Paraffin Wax + Glass Jar Cotton Wick With Rose,Vanila,Strawberry Fragrence Size : length = 8cm, Width = 8cm",
+    "cost": 200,
+    "price": 349,
+    "wholesale": "1300/4",
+    "images": [
+      "images/product-image-6.jpg"
+    ],
+    "category": "Scented Candles"
+  },
+  {
+    "id": 7,
+    "name": "Red Heart Jelly Dessert Candle – Romantic Glass Jar Candle",
+    "desc": "Translucent red jelly-style base with a creamy white top and red heart-shaped decorations Glossy, dessert-inspired aesthetic Size:  7.5 × 7.5 × 9 cm",
+    "cost": 300,
+    "price": 379,
+    "wholesale": "1471/4",
+    "images": [
+      "images/product-image-7.jpg"
+    ],
+    "category": "Scented Candles"
+  },
+  {
+    "id": 8,
+    "name": "Red Heart Jelly Dessert Candle – Glass Jar Candle",
+    "desc": "Glossy red heart-shaped wax pieces, layered over a creamy white wax  Size:  9 × 9 × 11.5 cm",
+    "cost": 300,
+    "price": 379,
+    "wholesale": "1471/4",
+    "images": [
+      "images/product-image-8.jpg"
+    ],
+    "category": "Scented Candles"
+  },
+  {
+    "id": 9,
+    "name": "Red Heart Jelly Candle – White Cream Layer Glass Jar Candle",
+    "desc": "Transparent glass jar with a red jelly-style base containing small heart-shaped wax pieces, topped with a smooth creamy white wax layer                   Size: 7.5 × 7.5 × 9 cm",
+    "cost": 200,
+    "price": 349,
+    "wholesale": "1449/4",
+    "images": [
+      "images/product-image-9.jpg"
+    ],
+    "category": "Scented Candles"
+  },
+  {
+    "id": 10,
+    "name": "Red Heart Jelly Candle – White Cream Layer Glass Jar Candle",
+    "desc": "Transparent glass jar with a red jelly-style base containing small heart-shaped wax pieces, topped with a smooth creamy white wax layer  Center cotton wick  Size: 7.5 × 7.5 × 9 cm",
+    "cost": 200,
+    "price": 349,
+    "wholesale": "1449/4",
+    "images": [
+      "images/product-image-10.jpg"
+    ],
+    "category": "Scented Candles"
+  },
+  {
+    "id": 11,
+    "name": "Sunflower Bloom Candle",
+    "desc": "Handmade Flower-Shaped Decorative Candle Wax With Center Cotton wick size : Radius : 1.5cm",
+    "cost": 80,
+    "price": 169,
+    "wholesale": "600/4",
+    "images": [
+      "images/product-image-11.jpg"
+    ],
+    "category": "Decorative Candles"
+  },
+  {
+    "id": 12,
+    "name": "Daisy Flower Candle",
+    "desc": "Daisy Flower Scented Candle with card made from soy wax Size : Radius :1.5cm.",
+    "cost": 90,
+    "price": 179,
+    "wholesale": "699/4",
+    "images": [
+      "images/product-image-12.jpg"
+    ],
+    "category": "Decorative Candles"
+  },
+  {
+    "id": 13,
+    "name": "Happy Birthday Floral Candle Pot",
+    "desc": "Decorative candle with Daisy-style flowers, roses, leaves and heart accents Size: Diameter  = 8 inches",
+    "cost": 549,
+    "price": 1249,
+    "wholesale": "set of 2  2400",
+    "images": [
+      "images/product-image-13.jpg"
+    ],
+    "category": "Decorative Candles"
+  },
+  {
+    "id": 14,
+    "name": "Daisy Flower Jar Candle",
+    "desc": "A jar Filled with soy wax and topped with a Daisy Flower",
+    "cost": 300,
+    "price": 499,
+    "wholesale": "2800  set of 6",
+    "images": [
+      "images/product-image-14.jpg"
+    ],
+    "category": "Scented Candles"
+  },
+  {
+    "id": 16,
+    "name": "Pastel Flower Bloom Candle",
+    "desc": "A jar Filled with soy wax and topped with a Pastel Flower Size:  7.5 × 7.5 × 6.5 cm per candle",
+    "cost": 100,
+    "price": 180,
+    "wholesale": "999  set of 6",
+    "images": [
+      "images/product-image-15.jpg"
+    ],
+    "category": "Decorative Candles"
+  },
+  {
+    "id": 17,
+    "name": "Floral Tart Candle",
+    "desc": "Round candle with a creamy wax base, topped with detailed handmade flowers in various floral designs Smooth creamy wax with sculpted floral embellishments Size : length 4cm, Height : 4cm  per candle",
+    "cost": 75,
+    "price": 230,
+    "wholesale": "set of 6  1200",
+    "images": [
+      "images/product-image-16.jpg"
+    ],
+    "category": "Decorative Candles"
+  },
+  {
+    "id": 18,
+    "name": "Heart Hug Bear Candle",
+    "desc": "Adorable teddy bear sculpted entirely with intricate rose-shaped wax flowers size : length = 3cm, Width = 2cm",
+    "cost": 45,
+    "price": 125,
+    "wholesale": "500  set of 4",
+    "images": [
+      "images/product-image-17.jpg"
+    ],
+    "category": "Decorative Candles"
+  },
+  {
+    "id": 19,
+    "name": "Handcrafted Multicolor Daisy Flower Decorative Set",
+    "desc": "scented  soy wax candles in daisy flower shape it has multipe fragrances like rose/ Levender/ Mogra/ Lavanya  Size : Radius = 1.5 cm.",
+    "cost": 180,
+    "price": 540,
+    "wholesale": "1800/4",
+    "images": [
+      "images/product-image-18.jpg"
+    ],
+    "category": "Decorative Candles"
+  },
+  {
+    "id": 20,
+    "name": "Handcrafted Single color Daisy Flower Decorative",
+    "desc": "scented soy wax candles in daisy flower cone shape. It has multipe fragrances like rose/ Levender/ Mogra/ Lavanya Size : Radius = 1.5 cm.",
+    "cost": 125,
+    "price": 250,
+    "wholesale": "899/4",
+    "images": [
+      "images/product-image-19.jpg"
+    ],
+    "category": "Gift & Bouquets"
+  },
+  {
+    "id": 21,
+    "name": "Handcrafted Single color Daisy Flower Decorative Bouquet",
+    "desc": "scented soy wax candles in daisy flower Bouquet with 7 candles.  It has multipe fragrances like rose/ Levender/ Mogra/ Lavanya                                                                                                 Size : Radius = 1.5 cm each",
+    "cost": 360,
+    "price": 630,
+    "wholesale": "1200\\2",
+    "images": [
+      "images/product-image-20.jpg"
+    ],
+    "category": "Decorative Candles"
+  },
+  {
+    "id": 22,
+    "name": "Pink Daisy Flower Decorative Candle",
+    "desc": "",
+    "cost": 125,
+    "price": 180,
+    "wholesale": "set of 4 650",
+    "images": [
+      "images/product-image-21.jpg"
+    ],
+    "category": "Scented Candles"
+  },
+  {
+    "id": 23,
+    "name": "Glass jar candle - Baby Pink",
+    "desc": "",
+    "cost": 120,
+    "price": 199,
+    "wholesale": "set of 4 700",
+    "images": [
+      "images/product-image-22.jpg"
+    ],
+    "category": "Decorative Candles"
+  },
+  {
+    "id": 24,
+    "name": "Urli Lotus pearls Candle",
+    "desc": "",
+    "cost": 300,
+    "price": 690,
+    "wholesale": "set of 2  1400",
+    "images": [
+      "images/product-image-23.jpg"
+    ],
+    "category": "Decorative Candles"
+  },
+  {
+    "id": 25,
+    "name": "Urli Lotus leaf Candle",
+    "desc": "",
+    "cost": 349,
+    "price": 690,
+    "wholesale": "set of 2 1400",
+    "images": [
+      "images/product-image-24.jpg"
+    ],
+    "category": "Scented Candles"
+  },
+  {
+    "id": 26,
+    "name": "Mini Jar Candles with sunflower",
+    "desc": "",
+    "cost": 75,
+    "price": 125,
+    "wholesale": "set of 8 /999",
+    "images": [
+      "images/product-image-25.jpg"
+    ],
+    "category": "Decorative Candles"
+  },
+  {
+    "id": 27,
+    "name": "Pastel Bubble Cube Candle",
+    "desc": "Made by 100% Soy Wax  with matte finish and Gradient colour combination with Multiple fragrances                                                         Approx 250-350gm",
+    "cost": null,
+    "price": null,
+    "wholesale": "",
+    "images": [
+      "images/product-image-26.jpg"
+    ],
+    "category": "Scented Candles"
+  },
+  {
+    "id": 28,
+    "name": "Blush Heart Scented Candle/ Mini Heart Jar Candle",
+    "desc": "Beautiful Handcrafted Heart inspired candles soft pastel tones and charming decorative details.",
+    "cost": null,
+    "price": null,
+    "wholesale": "",
+    "images": [
+      "images/product-image-27.jpg"
+    ],
+    "category": "Decorative Candles"
+  },
+  {
+    "id": 29,
+    "name": "Succulent Garden Glass Candle",
+    "desc": "Clear Glass soy wax candle with  succulent garden green candle with Bamboo Forest Fragrance.                                             Approx : 200-300gm",
+    "cost": null,
+    "price": null,
+    "wholesale": "",
+    "images": [
+      "images/product-image-28.jpg"
+    ],
+    "category": "Scented Candles"
+  },
+  {
+    "id": 30,
+    "name": "Jar candle with Top Flower (Baby Pink )",
+    "desc": "Clear Glass jar candle with Rose/ Strawberry / Vanilla Fragrence                                   Approx : 200-250gm",
+    "cost": null,
+    "price": null,
+    "wholesale": "",
+    "images": [
+      "images/product-image-29.png"
+    ],
+    "category": "Scented Candles"
+  },
+  {
+    "id": 31,
+    "name": "Embrace Couple Sculptural Candle",
+    "desc": "Paraffin wax / candle wax Decorative and functional candle use Smooth matte/glossy wax finish                                    Approximately 300–450 g, depending on wax density",
+    "cost": null,
+    "price": null,
+    "wholesale": "",
+    "images": [
+      "images/product-image-30.jpg"
+    ],
+    "category": "Decorative Candles"
+  }
+]
